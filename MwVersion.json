@@ -2,7 +2,7 @@
     "versionList": [
         {
             "mcVersion":"Minecraft 1.7.10",
-            "modVersion":"2.1.9",
+            "modVersion":"2.1.10",
             "changeLog": [],
             "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
             "isDirectLink":"false",
@@ -10,7 +10,7 @@
         },
         {
             "mcVersion":"Minecraft 1.8",
-            "modVersion":"2.2.5",
+            "modVersion":"2.2.10",
             "changeLog": [],
             "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
             "isDirectLink":"false",
