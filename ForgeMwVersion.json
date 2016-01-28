@@ -3,14 +3,21 @@
   "promos": {
     "1.8-latest": "2.2.12",
     "1.8-recommended": "2.2.12"
-    "1.8.8-latest": "2.3.12",
-    "1.8.8-recommended": "2.3.12"
+    "1.8.8-latest": "2.3.13",
+    "1.8.8-recommended": "2.3.13",
+	"1.8.9-latest": "2.3.13",
+    "1.8.9-recommended": "2.3.13"
   },
   "1.8": {
     "2.2.11": "do a force reload of the blockcolours when skip first texture pass is enabled in forge.",
-    "2.2.12": "Forge version check suport.\nSave markers after edit, add or delete.\nFixed bug that marker groups kept special characters.\nStop saving tileentities, this only gives errors and bugs and isnt realy needed.\nFixes to localization.\nAdded option to show current biome under the minimap.\nDont do anything with blocks that have a rendertype of -1 (blocks that cant be seen in the world).\nAdded version number to blockcolour files. will regenerate a new one if mapwriter is updated"
+    "2.2.12": "Forge version check suport.\nSave markers after edit, add or delete.\nFixed bug that marker groups kept special characters.\nStop saving tileentities, this only gives errors and bugs and isnt realy needed.\nFixes to localization.\nAdded option to show current biome under the minimap.\nDont do anything with blocks that have a rendertype of -1 (blocks that cant be seen in the world).\nAdded version number to blockcolour files. will regenerate a new one if mapwriter is updated",
+	"2.2.13": "Fixed bug that cordinates didnt stay in position under minimap.\nAdded Chinese languadge, translation by Muink.\nAdded accepted minecraft version.\nFixed bug that settings didnt generate with default value.\nFix for markers not reloading properly when loading world.\nAllow all unicode letters in marker names (makes it posible to use accented letters or non latin letters)"
    },
-     "1.8.8": {
-    "2.3.12": "Update to minecraft 1.8.8"
+   "1.8.8": {
+    "2.3.12": "Update to minecraft 1.8.8",
+	"2.3.13": "Fixed bug that cordinates didnt stay in position under minimap.\nAdded Chinese languadge, translation by Muink.\nAdded accepted minecraft version.\nFixed bug that settings didnt generate with default value.\nFix for markers not reloading properly when loading world.\nAllow all unicode letters in marker names (makes it posible to use accented letters or non latin letters)"
+   },
+   "1.8.9": {
+    "2.3.13": "Update to minecraft 1.8.9\nFixed NPE when connecting to realms, only 1 realm can have a map becouse it's imposible for me to know what realm you are connected to.\nFixed bug that cordinates didnt stay in position under minimap.\nAdded Chinese languadge, translation by Muink.\nAdded accepted minecraft version.\nFixed bug that settings didnt generate with default value.\nFix for markers not reloading properly when loading world.\nAllow all unicode letters in marker names (makes it posible to use accented letters or non latin letters)"
    }
 }
