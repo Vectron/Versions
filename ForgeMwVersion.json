@@ -23,6 +23,8 @@
         "2.3.13": "Update to minecraft 1.8.9\nFixed NPE when connecting to realms, only 1 realm can have a map becouse it's imposible for me to know what realm you are connected to.\nFixed bug that cordinates didnt stay in position under minimap.\nAdded Chinese languadge, translation by Muink.\nAdded accepted minecraft version.\nFixed bug that settings didnt generate with default value.\nFix for markers not reloading properly when loading world.\nAllow all unicode letters in marker names (makes it posible to use accented letters or non latin letters)"
     }
     "1.9": {
-        "2.4.13": "Update to minecraft 1.8.9\nAdded a string to be translated"
+        "2.4.13": "Update to minecraft 1.8.9\nAdded a string to be translated",
+        "2.4.14": "Fixes for latest forge beta 12.16.0.1809.",
+        "2.4.15": "Fix for not changing dimension.\nSave singleplayer data in the world folder, this makes the data be deleted when the world is deleted.\nSave each realm in it's own folder, this makes it posible to have a different map for each realm you're on.\nMake MWChunks a full copy again of a normal chunk."
     }
 }
