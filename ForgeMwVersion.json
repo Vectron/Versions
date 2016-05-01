@@ -7,8 +7,8 @@
     "1.8.8-recommended": "2.3.13",
 	"1.8.9-latest": "2.3.14",
     "1.8.9-recommended": "2.3.14",
-    "1.9-latest": "2.4.17",
-    "1.9-recommended": "2.4.17"
+    "1.9-latest": "2.4.18",
+    "1.9-recommended": "2.4.18"
   },
   "1.8": {
     "2.2.11": "do a force reload of the blockcolours when skip first texture pass is enabled in forge.",
@@ -28,6 +28,7 @@
         "2.4.14": "Fixes for latest forge beta 12.16.0.1809.",
         "2.4.15": "Fix for not changing dimension.\nSave singleplayer data in the world folder, this makes the data be deleted when the world is deleted.\nSave each realm in it's own folder, this makes it posible to have a different map for each realm you're on.\nMake MWChunks a full copy again of a normal chunk.",
         "2.4.16": "Update to latest forge version now on 12.16.0.1853-1.9\nRemoved the NEK api, forge now has a build in system for modifiers.",
-        "2.4.17": "Change top margin for top right position, makes the effects bars visable\nRevert back to old way of checking death, this fixes death markers not getting created in multiplayer\nFix a NPE in GetBlockColour"
+        "2.4.17": "Change top margin for top right position, makes the effects bars visable\nRevert back to old way of checking death, this fixes death markers not getting created in multiplayer\nFix a NPE in GetBlockColour",
+        "2.4.18": "Make the map position and size free configurable in a new options screen (replaces the old 4 precoded positions)\nMinor fixes\nUpdate to forge 12.16.0.1868-1.9"
     }
 }
