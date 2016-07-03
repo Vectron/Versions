@@ -1,44 +1,60 @@
 {
     "versionList": [
         {
-            "mcVersion":"Minecraft 1.7.10",
-            "modVersion":"2.1.10",
-            "changeLog": [],
-            "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
-            "isDirectLink":"false",
-            "newFileName":""
+            "mcVersion": "Minecraft 1.7.10",
+            "modVersion": "2.1.10",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
         },
         {
-            "mcVersion":"Minecraft 1.8",
-            "modVersion":"2.2.13",
-            "changeLog": [],
-            "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
-            "isDirectLink":"false",
-            "newFileName":""
+            "mcVersion": "Minecraft 1.8",
+            "modVersion": "2.2.13",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
         },
-                {
-            "mcVersion":"Minecraft 1.8.8",
-            "modVersion":"2.3.13",
-            "changeLog": [],
-            "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
-            "isDirectLink":"false",
-            "newFileName":""
+        {
+            "mcVersion": "Minecraft 1.8.8",
+            "modVersion": "2.3.13",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
         },
-                {
-            "mcVersion":"Minecraft 1.8.9",
-            "modVersion":"2.3.14",
-            "changeLog": [],
-            "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
-            "isDirectLink":"false",
-            "newFileName":""
+        {
+            "mcVersion": "Minecraft 1.8.9",
+            "modVersion": "2.3.14",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
         },
-                {
-            "mcVersion":"Minecraft 1.9",
-            "modVersion":"2.4.18",
-            "changeLog": [],
-            "updateURL":"http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
-            "isDirectLink":"false",
-            "newFileName":""
+        {
+            "mcVersion": "Minecraft 1.9",
+            "modVersion": "2.4.20",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "mcVersion": "Minecraft 1.9.4",
+            "modVersion": "2.5.20",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
+        },
+        {
+            "mcVersion": "Minecraft 1.10.2",
+            "modVersion": "2.6.19",
+            "changeLog": [ ],
+            "updateURL": "http://minecraft.curseforge.com/mc-mods/231387-mapwriter-2/files/",
+            "isDirectLink": "false",
+            "newFileName": ""
         }
     ]
 }
