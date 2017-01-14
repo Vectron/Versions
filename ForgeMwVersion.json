@@ -12,7 +12,11 @@
         "1.9.4-latest": "2.5.20",
         "1.9.4-recommended": "2.5.20",
         "1.10.2-latest": "2.6.19",
-        "1.10.2-recommended": "2.6.19"
+        "1.10.2-recommended": "2.6.19",
+        "1.11-latest": "2.7.0",
+        "1.11-recommended": "2.7.0",
+        "1.11.2-latest": "2.7.0",
+        "1.11.2-recommended": "2.7.0"
     },
     "1.8": {
         "2.2.11": "do a force reload of the blockcolours when skip first texture pass is enabled in forge.",
@@ -43,5 +47,11 @@
     },
     "1.10.2": {
         "2.6.19": "Update to Minecraft 1.10.2 with forge 1.10.2 - 12.18.0.2006"
+    },
+    "1.11": {
+        "2.7.0": "Update to Minecraft 1.11 with forge 1.11 - 13.19.1.2199"
+    },
+    "1.11.2": {
+        "2.7.0": "Update to Minecraft 1.11.2 with forge 1.11.2 - 13.20.0.2214"
     }
 }
