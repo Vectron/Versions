@@ -58,6 +58,7 @@
         "2.8.0": "Update to Minecraft 1.12.1 with forge 1.12.1 - 14.22.1.2481"
     },
     "1.12.2": {
-        "2.8.1": "Fix for biomes o plenty overrides, old override file needs to be deleted manualy for this to take effect"
+        "2.8.1": "Fix for biomes o plenty overrides, old override file needs to be deleted manualy for this to take effect",
+        "2.8.2": "Fix NPE when logging in with marker names in world enabled fixes #67"
     }
 }
